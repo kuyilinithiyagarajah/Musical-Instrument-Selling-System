@@ -30,7 +30,7 @@ This project is a web-based platform for online musical instrument sales and man
 - Developed Financial Reporting module for sales and revenue analytics
 - Assisted in SQL triggers, functions, and queries for database operations
 - Participated in team collaboration using GitHub and Agile sprints
-- Documented my contributions in `Documents/Contribution_Report_Kuyilini.pdf`
+
 
 ## Academic Details
 - Institution: SLIIT
@@ -39,3 +39,4 @@ This project is a web-based platform for online musical instrument sales and man
 
 ## Skills Demonstrated
 Java · JSP · Servlets · MySQL · SQL Queries · Database Design · Financial Reporting · Full-Stack Development · Team Collaboration
+
