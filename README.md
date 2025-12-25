@@ -22,7 +22,7 @@ This project is a web-based platform for online musical instrument sales and man
 
 ## Repository Structure
 - `Code/` – JSP, Servlets, and SQL scripts
-- `Documents/` – Contribution report and project report
+- `Documents/` – Project reports
 - `Presentation/` – Presentation slides
 - `README.md` – Project overview
 
@@ -39,4 +39,5 @@ This project is a web-based platform for online musical instrument sales and man
 
 ## Skills Demonstrated
 Java · JSP · Servlets · MySQL · SQL Queries · Database Design · Financial Reporting · Full-Stack Development · Team Collaboration
+
 
